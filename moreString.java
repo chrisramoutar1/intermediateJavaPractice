@@ -1,5 +1,5 @@
 
-public class moreString {
+//public class moreString {
     //public static void main (String args[]){
         String s = "buckyrobertsbuckyroberts";
         System.out.println(s.indexOf('k'));

@@ -1,6 +1,6 @@
 // Java Tutorial - 5 - ArrayList Program
 import java.util.*;
-public class collections {
+//public class collections {
     public static void main(String[] args){
         String[] things ={"eggs", "lasers", "hats", "pie"};
         List<String> list1 = new ArrayList<String>();

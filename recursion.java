@@ -1,5 +1,5 @@
 //all recursion is, is a method that calls itself
-public class recursion {
+//public class recursion {
     //public static void main(String args[]){
         System.out.println(fact(5));
     }

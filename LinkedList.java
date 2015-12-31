@@ -1,6 +1,6 @@
 import java.util.*;
-public class LinkedList {
-    public static void main(String[] args){
+//public class LinkedList {
+   // public static void main(String[] args){
         
         String[] things = {"apples", "noobs", "pwnge", "bacon", "goats"};
         List<String> list1 = new LinkedList<String>();

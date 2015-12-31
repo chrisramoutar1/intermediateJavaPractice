@@ -1,5 +1,5 @@
 //common string methods
-public class intermediate {
+//public class intermediate {
    // public static void main(String args[]){
         String[] words = {"funk", "chunk", "furry", "baconator"};
         //startsWith
